@@ -1,3 +1,3 @@
-# Test sucessful
+# Test successful
 
 # Trail and Test
