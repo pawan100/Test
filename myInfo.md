@@ -1,6 +1,7 @@
 
 ## PERSONAL INFORMATION
-<img src = "./picture.jpg" style = "width: 10%;">
+<div style = "border-radius: 10px;"><img src = "./picture.jpg" style = "width: 10%;"></div>
+
 __Pawan Thapa__
 	  Tuscaloosa, Alabama   pthapa2@crimson.ua.edu
 ## EDUCATION 	  
